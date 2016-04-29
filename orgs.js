@@ -130,7 +130,5 @@
         {"name": "ibm-bluemix-mobile-services",
          "type": "org"},
         {"name": "ibm-security-innovation",
-        "type": "org"},
-        {"name": "strongloop",
         "type": "org"}
     ];
